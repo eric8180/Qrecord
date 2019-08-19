@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
+import elementui from 'element-ui'
 
 Vue.config.productionTip = false
 
