@@ -27,7 +27,7 @@ export default {
   text-align: center;
   color: #2c3e50;
 }
-#judge a{
+/* #judge a{
   text-decoration: none;
   color:cornflowerblue
-}
+} */

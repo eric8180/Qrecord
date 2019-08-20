@@ -29,6 +29,7 @@ export default {
 }
 </script>
 
+
 <style>
 /* #info el-input{width: 60%}; */
 </style>
