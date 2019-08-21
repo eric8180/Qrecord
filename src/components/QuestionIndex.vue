@@ -2,7 +2,7 @@
   <div id="home">
     <div>
       <div  id="img">
-          <img width=100% height=100% alt="Question logo" src="../assets/question.jpg">
+          <img  alt="Question logo" src="../assets/question.jpg">
       </div>
       <div id="question">
         <ul>
@@ -24,6 +24,5 @@ export default {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
 }
