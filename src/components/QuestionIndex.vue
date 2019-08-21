@@ -1,12 +1,14 @@
 <template>
   <div id="home">
-    <div id="img">
-        <img alt="Question logo" src="../assets/question.jpg">
-    </div>
-    <div id="question">
-      <ul>
-        <li><router-link to="/judge">"我的"页面中显示的姓名不正确</router-link></li>
-      </ul>
+    <div>
+      <div height=100px id="img">
+          <img width=100% height=100% alt="Question logo" src="../assets/question.jpg">
+      </div>
+      <div id="question">
+        <ul>
+          <li><router-link to="/judge" style="text-decoration:none">"我的"页面中显示的姓名不正确</router-link></li>
+        </ul>
+      </div>
     </div>
   </div>
 </template>
@@ -24,8 +26,4 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-}
-#question a{
-  text-decoration: none;
-  color:cornflowerblue
 }
