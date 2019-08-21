@@ -1,7 +1,7 @@
 <template>
   <div id="home">
     <div id="img">
-        <img alt="Question logo" src="../assets/sfz.jpg">
+        <img alt="Question logo" src="../../assets/sfz.jpg">
     </div>
     <div id="judge">
       <h1>用户是否身份认证</h1>
