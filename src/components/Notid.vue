@@ -19,7 +19,12 @@
       show-word-limit>
       </el-input>
       </div>
-    
+      <ul>
+      <el-row>
+      
+      <el-button><router-link to ="./">返回首页</router-link></el-button>
+      </el-row>
+      </ul>
   </div>
 </template>
 
