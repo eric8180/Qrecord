@@ -13,7 +13,7 @@ import Namefalse from './components/QuestionName/Namefalse.vue';
 
 
 Vue.use(Router)
-
+//引入路径
 export default new Router({
     routes:[
         {path:'/',component:QuestionHome},
